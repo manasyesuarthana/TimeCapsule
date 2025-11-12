@@ -100,5 +100,5 @@ The project is organized into several key directories:
 </div>
 
 ---
-*This project was bootstrapped from AI Studio.*
+*This project was bootstrapped from Google's AI Studio.*
 *This project was our group's submission for the 6th Pitch and Prototype Hackathon organized by the UoB Computer Science Society.*
